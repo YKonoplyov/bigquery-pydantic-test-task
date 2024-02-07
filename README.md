@@ -1,7 +1,5 @@
 # Bigquery, Pandas, GoogleSheets test task
 
-
-
 ## Table of Contents
 
 - [Installation](#installation)
